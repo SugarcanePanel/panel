@@ -1,4 +1,12 @@
-# React Template
+> Bootstrapped with [@CreativeTechGuy/ReactTemplate](https://github.com/CreativeTechGuy/ReactTemplate/);
+
+@sugarcanepanel/
+
+# panel
+
+Sugarcane's user-friendly panel that connects you to your servers.
+
+## Old README
 
 This repository exists as a starting point for a new React 18 application (with hooks). The build system, testing, linting, formatting, compiling, spellchecking and more are all pre-configured.
 

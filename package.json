@@ -1,8 +1,10 @@
 {
-    "name": "react-template",
-    "version": "1.0.0",
-    "description": "",
-    "author": "",
+    "name": "@sugarcanepanel/panel",
+    "version": "0.1.0",
+    "description": "Sugarcane's user-friendly panel that connects you to your servers.",
+    "author": "gavinhsmith",
+    "license": "MIT",
+    "packageManager": "yarn@4.9.1",
     "scripts": {
         "start": "webpack serve",
         "release": "npm run verify && npm run build",

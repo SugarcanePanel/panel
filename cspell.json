@@ -1,7 +1,17 @@
 {
     "version": "0.2",
-    "words": ["autofix", "autofixable", "browserconfig", "corejs", "lcov", "msapplication", "mstile"],
-    "ignorePaths": ["package.json", "package-lock.json"],
+    "words": [
+        "autofix",
+        "autofixable",
+        "browserconfig",
+        "corejs",
+        "lcov",
+        "msapplication",
+        "mstile",
+        "sugarcanepanel",
+        "transpiling"
+    ],
+    "ignorePaths": ["package.json", "yarn.lock"],
     "useGitignore": true,
     "validateDirectives": true,
     "cache": {
@@ -9,5 +19,5 @@
         "cacheLocation": "./node_modules/.cache/cspell/.cspell"
     },
     "language": "en",
-    "dictionaries": ["html", "typescript", "css", "en-gb", "fonts", "npm"]
+    "dictionaries": ["html", "typescript", "css", "en-us", "fonts", "npm"]
 }
