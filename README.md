@@ -1,4 +1,4 @@
-> Bootstrapped with [@CreativeTechGuy/ReactTemplate](https://github.com/CreativeTechGuy/ReactTemplate/);
+> Bootstrapped with [@CreativeTechGuy/ReactTemplate](https://github.com/CreativeTechGuy/ReactTemplate/).
 
 @sugarcanepanel/
 
@@ -43,7 +43,7 @@ It also includes all of the nice-to-haves to ensure that you code is high qualit
 - `npm run verify` - checks the application without building
 - `npm run bundle-analysis` - opens a bundle analysis UI showing the file size of each dependency in your output JavaScript bundle.
 - `npm run lint` - runs ESLint enforcing good coding style and habits and erroring if any are broken.
-    - `npm run lint:fix` - fixes any auto-fixable ESLint errors
+  - `npm run lint:fix` - fixes any auto-fixable ESLint errors
 - `npm run format` - runs Prettier to reformat all files
 - `npm run autofix` - fix all autofixable issues
 - `npm run ts-check` - runs the TypeScript compiler to see TypeScript errors
